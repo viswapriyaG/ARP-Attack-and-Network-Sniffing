@@ -46,10 +46,9 @@ sudo dsnifff
 ![out4](https://github.com/viswapriyaG/ARP-Attack-and-Network-Sniffing/assets/131427787/7562a011-aa01-4a53-83ff-b7b891224d6a)
 
 
-## OUTPUT:
-![out5](https://github.com/viswapriyaG/ARP-Attack-and-Network-Sniffing/assets/131427787/1cd99fbb-8a0e-4c29-8208-b3013e28243d)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+![out5](https://github.com/viswapriyaG/ARP-Attack-and-Network-Sniffing/assets/131427787/1cd99fbb-8a0e-4c29-8208-b3013e28243d)
 
 
 ## RESULT:
